@@ -145,3 +145,11 @@ Exemplo do JSON de resposta: <br>
        "receitas": "RECEITAS 10/2021 : R$ 61", <br>
        "resultado": 1 <br>
      } <br>
+
+## Desenvolvedores:
+
+<a href="https://github.com/Guimonteirol">Guilherme Monteiro</a> |	 
+<a href="https://github.com/valleriabueno">Valéria Bueno</a> | 
+<a href="https://github.com/SilasSousadeJesus">Silas Sousa</a> | 
+<a href="https://github.com/SESSENO">Sérgio Sesseno</a> |
+<a href="https://github.com/Sidnasciment0">Sid Nascimento</a>
