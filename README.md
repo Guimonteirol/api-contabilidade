@@ -146,10 +146,7 @@ Exemplo do JSON de resposta: <br>
        "resultado": 1 <br>
      } <br>
 
-## Desenvolvedores:
+## Desenvolvedor:
 
-<a href="https://github.com/Guimonteirol">Guilherme Monteiro</a> |	 
-<a href="https://github.com/valleriabueno">Valéria Bueno</a> | 
-<a href="https://github.com/SilasSousadeJesus">Silas Sousa</a> | 
-<a href="https://github.com/SESSENO">Sérgio Sesseno</a> |
-<a href="https://github.com/Sidnasciment0">Sid Nascimento</a>
+<a href="https://www.linkedin.com/in/guilhermemonteirol/">Guilherme Monteiro</a> |	 
+
